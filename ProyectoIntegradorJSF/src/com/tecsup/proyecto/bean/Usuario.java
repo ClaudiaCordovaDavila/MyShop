@@ -3,7 +3,7 @@ package com.tecsup.proyecto.bean;
 import java.io.Serializable;
 
 public class Usuario implements Serializable{
-	//dds
+	
 	private static final long serialVersionUID = 1L;
 	private int id;
 	private String usuario;
